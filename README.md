@@ -7,6 +7,7 @@ ah/al - 8bit
 ```
 ### build
 ```
+sudo apt install fasm
 fasm main.asm
 ld main.o -o main
 ./main
