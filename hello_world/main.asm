@@ -1,5 +1,5 @@
-format ELF64 executable
-entry _start
+format ELF64
+public _start
 
 endl equ 0xA
 
