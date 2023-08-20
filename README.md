@@ -32,5 +32,5 @@ ah/al - 8bit
 ```
 sudo apt install fasm
 cd /hello_world
-../make once run
+make once run
 ```
